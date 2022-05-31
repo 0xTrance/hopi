@@ -9,11 +9,9 @@ Gem::Specification.new do |spec|
   spec.email = ["oxtrance@protonmail.com"]
 
   spec.summary = "Anonymously make HTTP requests through the tor network using Socks5 Proxy"
-  spec.homepage = "https://github.com/0xTrance/hopi"
+  spec.homepage = "https://github.com/0xTrance/hopi/blob/main/README.md"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
-
-  spec.metadata["allowed_push_host"] = "https://api.github.com/0xTrance/hopi"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/0xTrance/hopi"

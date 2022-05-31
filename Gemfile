@@ -8,3 +8,5 @@ gemspec
 gem "rake", "~> 13.0"
 
 gem "rspec", "~> 3.0"
+
+gem "solargraph", "~> 0.45.0", :group => :development

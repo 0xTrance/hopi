@@ -10,3 +10,7 @@ gem "rake", "~> 13.0"
 gem "rspec", "~> 3.0"
 
 gem "solargraph", "~> 0.45.0", :group => :development
+
+gem "socksify", "~> 1.7"
+
+gem "sys-proctable", "~> 1.2"

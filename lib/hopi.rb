@@ -1,8 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "hopi/version"
-
-module Hopi
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require_relative 'hopi/execeptions'
+require_relative "hopi/tor_client"
+require "mkmf"
+require "pty"
